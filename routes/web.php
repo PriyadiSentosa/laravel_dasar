@@ -84,4 +84,8 @@ Route::get('profile', function () {
     return view('profile.index');
 });
 
+Route::get('album', function () {
+    return view('album');
+});
+
 
