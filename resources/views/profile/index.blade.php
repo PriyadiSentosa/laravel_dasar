@@ -40,7 +40,7 @@ Status Kamu Lulus 100%
 @endfor
 
 @php
-    $warna = '<div style="color: red">HAHAHIHI</div>'
+    $warna = '<div style="color: red">aaasik</div>'
 @endphp
 {{-- sajiajsiuw --}}
 {{-- {{$warna}} --}}
