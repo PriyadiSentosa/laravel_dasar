@@ -17,7 +17,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return 'hallo pak';
+    return view('contoh');
 });
 
 Route::get('laravel', function () {
@@ -84,8 +84,8 @@ Route::get('profile', function () {
     return view('profile.index');
 });
 
-Route::get('album', function () {
+Route::get('ydyuwguewgfrfer', function () {
     return view('album');
-});
+})->name('album');
 
 
